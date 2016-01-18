@@ -1,4 +1,10 @@
 
+1.0.2 / 2016-01-17
+==================
+
+  * json_serialize: change indent to 2 spaces
+  * gitignore: keep test stuff out of repo
+
 1.0.1 / 2016-01-17
 ==================
 
